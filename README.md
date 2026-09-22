@@ -1,4 +1,4 @@
-# stats_function_group
+# An Accurate Molecular Functional Group Detection Script
 
 Precise, rule-based functional-group recognition from PDB connectivity.
 
