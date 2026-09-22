@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Large local reference collection; intentionally not published.
+all_run_pdb/
+
+# Local drafts and scratch data.
+README
+tmp.json
+
+# Default outputs generated in the repository root.
+/annotated.csv
+/summary.csv
+/fg_table.csv
+/fg_total_summary.csv
